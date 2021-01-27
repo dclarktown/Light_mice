@@ -10,6 +10,9 @@ Figure 2: female activity data
 Figure 3: dam serum data
 - The serum data is available in the "Dam_serum_data" file.
 
+Figure 4: longitudinal data
+- All of the longitudinal data (weekly weight, weekly blood glucose, GTT, OMR, ERG) is available in the "Data_masterfile" file.
+
 # Code
 
 The statistical analyses were performed in GraphPad Prism and R. R code is provided to recapitulate the statistical results from Prism.
