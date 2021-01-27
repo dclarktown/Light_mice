@@ -21,7 +21,4 @@ Supplemental Figure 1: diet activity data
 
 # Code
 
-The statistical analyses were performed in GraphPad Prism and R. R code is provided to recapitulate the statistical results from Prism.
-
-R code to plot the waveform data as presented in the ERG figures is provided in
-
+The statistical analyses were performed in GraphPad Prism and R. Some example R code to run statistical analyses and plot the ERG example waveforms is provided in the "R_code" file, with the corresponding "Data_masterfile_FIN.RData" dataset. 
