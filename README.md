@@ -14,7 +14,6 @@ Figures 4-8, Supplemental Figures 2-3: longitudinal data
 - All of the longitudinal data (weekly weight, weekly blood glucose, GTT, OMR, ERG) is available in the "Data_masterfile" file.
 
 Supplemental Figure 1: diet activity data
-- 
 
 # Code
 
