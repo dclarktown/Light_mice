@@ -5,6 +5,7 @@ This depository contains the data and code for the "Light Environment Influences
 
 Figure 2: female activity data 
 - The "ActogramJ_data" file contains the PIR data and the "wheel_CD" file contains the wheel running data that were read into ActogramJ to create the actograms. 
+- The activity count data to compare activity during light cycles is available in the "Count_data_total" file.
 - The same PIR data that was used for the actograms was used for the nparACT analysis and activity count data by light cycle and is available in the "counting_activity_light_dark_cycles" file. 
 
 Figure 3: dam serum data
@@ -22,3 +23,5 @@ Supplemental Figure 1: diet activity data
 # Code
 
 The statistical analyses were performed in GraphPad Prism and R. Some example R code to run statistical analyses and plot the ERG example waveforms is provided in the "R_code" file, with the corresponding "Data_masterfile_FIN.RData" dataset. 
+
+The code used to sum the activity data (in the "Count_data_total" file) is available in the "R_code_actigraphy" file. The R code used to generate the IS, IV, and RA actigraohy data is available in the "R_code_nparACT" file with corresponding "nparACT.RData" file. 
