@@ -24,4 +24,4 @@ Supplemental Figure 1: diet activity data
 
 The statistical analyses were performed in GraphPad Prism and R. Some example R code to run statistical analyses and plot the ERG example waveforms is provided in the "R_code" file, with the corresponding "Data_masterfile_FIN.RData" dataset. 
 
-The code used to sum the activity data (in the "Count_data_total" file) is available in the "R_code_actigraphy" file. The R code used to generate the IS, IV, and RA actigraohy data is available in the "R_code_nparACT" file with corresponding "nparACT.RData" file. 
+The code used to sum the activity data (in the "Count_data_total" file) is available in the "R_code_actigraphy" file. The R code used to generate the IS, IV, and RA actigraphy data is available in the "R_code_nparACT" file with corresponding "nparACT.RData" file. 
