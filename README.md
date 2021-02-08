@@ -5,9 +5,8 @@ This depository contains the data and code for the "Light Environment Influences
 
 Figure 2: female activity data 
 - The "ActogramJ_data" file contains the PIR data and the "wheel_CD" file contains the wheel running data that were read into ActogramJ to create the actograms. 
-- The activity count data to compare activity during light cycles is available in the "Count_data_total" file.
-- The same PIR data that was used for the actograms was used for the nparACT analysis (code and data below). 
-- NOTE: actigraphy data is of cages of 2-4 female C57 mice, all fed standard chow diet except for F3_CL, fed CON diet
+- The same PIR data that was used for the actograms was used for the nparACT analysis for IS, IV and RA (code and data below). 
+- NOTE: actigraphy data is from cages of female C57 mice (n=2-4/cage), all fed standard chow diet except for F3_CL, fed CON diet
 
 Figure 3: dam serum data
 - The serum data is available in the "Dam_serum_data" file.
