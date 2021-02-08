@@ -7,6 +7,7 @@ Figure 2: female activity data
 - The "ActogramJ_data" file contains the PIR data and the "wheel_CD" file contains the wheel running data that were read into ActogramJ to create the actograms. 
 - The activity count data to compare activity during light cycles is available in the "Count_data_total" file.
 - The same PIR data that was used for the actograms was used for the nparACT analysis (code and data below). 
+- NOTE: actigraphy data is of cages of 2-4 female C57 mice, all fed standard chow diet except for F3_CL, fed CON diet
 
 Figure 3: dam serum data
 - The serum data is available in the "Dam_serum_data" file.
@@ -22,10 +23,8 @@ Figures 4-8, Supplemental Figures 1-2: longitudinal data
 Figure 9, Supplemental Figure 3: retinal immunofluorescence data - Cd11b and Iba1 staining
 - The quantified immunofluorescence data that was used for the analysis in Figure 9 is available in the "IHC_data" file.
 
-Supplemental Figure 1: diet activity data
-
 # Code
 
 The statistical analyses were performed in GraphPad Prism and R. Some example R code to run statistical analyses and plot the ERG example waveforms is provided in the "R_code" file, with the corresponding "Data_masterfile_FIN.RData" dataset. 
 
-The R code used to generate the IS, IV, and RA actigraphy data is available in the "R_code_nparACT" file with corresponding "nparACT.RData" file. 
+The R code used to generate the IS, IV, and RA actigraphy data is available in the "R_code_nparACT" file with corresponding "nparACT.RData" file. The graphed output data is available in the "nparACT_output" file.
